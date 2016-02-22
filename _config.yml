@@ -1,14 +1,29 @@
+name: Gail D. Armstrong
+favicon: null
 layout_spectrum: 0.4183695
 typography_spectrum: 0.6216497
+title: Gail D. Armstrong
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5216372
-  lightness: 0.6000105
-  brandStrength: 0.4911222
-  rhythmicContrast: 0.01947033
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: Gail D. Armstrong
+  brandStrength: 0.4911222
+  lightness: 0.6000105
+  saturation: 0.5216372
+  rhythmicContrast: 0.01947033
+purpose: []
